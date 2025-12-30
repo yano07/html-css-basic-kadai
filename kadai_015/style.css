@@ -1,0 +1,29 @@
+html {
+    font-size: 20px;
+}
+
+body {
+    font-family: Arial, Meiryo, sans-serif;
+    text-align: center;
+}
+
+.blue {
+    color: skyblue;
+}
+
+.pink {
+    color: rgb(255, 192, 203);
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px gray;
+    color: rgb(115, 115, 114);
+}
+
+#basic p {
+    text-transform: uppercase;
+}
